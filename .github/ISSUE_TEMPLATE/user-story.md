@@ -8,3 +8,9 @@ assignees: ''
 ---
 
 As a **role**, I can **capability** so that **receive benefit**
+
+## In order to achieve this, I must:
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
